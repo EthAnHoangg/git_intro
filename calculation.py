@@ -16,6 +16,8 @@ if __name__ == '__main__':
         2. cal_rectangle_area \nPlease enter an integer:"))
     
     mult = int(input("Add multiplier:"))
+    add = int(input("Add addition:"))
+    sub = int(input("Add subtraction:"))
 
     sub = int(input("Add subtraction:"))
     add = int(input("Add addition:"))
